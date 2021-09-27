@@ -25,15 +25,26 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.blazels.xyz
   # baseUrl: /stats
+  favicon: https://blazels.xyz/assets/img/favicon/apple-touch-icon.png
   logoUrl: https://blazels.xyz/logo.png
-  name: Blazestats
+  name: .
   introTitle: "**Blazestat** for status Server Blaze."
-  introMessage: "Blaze Saga"
+  introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: BlazeLS
+      href: https://blazels.xyz
+    - title: Discord
+      href: https://discord.gg/T7KcEWqvvN
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
