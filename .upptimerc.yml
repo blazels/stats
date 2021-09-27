@@ -27,7 +27,7 @@ status-website:
   # baseUrl: /stats
   logoUrl: https://blazels.xyz/logo.png
   name: Blazestats
-  introTitle: "**BLAZESTAT** is the tools to check status Server Blaze."
+  introTitle: "**Blazestat** for status Server Blaze."
   introMessage: "Blaze Saga"
   navbar:
     - title: Status
