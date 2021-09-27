@@ -27,7 +27,7 @@ status-website:
   # baseUrl: /stats
   favicon: https://blazels.xyz/assets/img/favicon/apple-touch-icon.png
   logoUrl: https://blazels.xyz/logo.png
-  name: .
+  name: BlazeLS.xyz - Server Status
   introTitle: "**Blazestat** for status Server Blaze."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
