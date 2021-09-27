@@ -10,7 +10,7 @@ sites:
   - name: Patch
     url: https://cdn-up.blazels.xyz
   - name: Storage
-    url: https://s3.jagoanstorage.com
+    url: https://s3.jagoanstorage.com/download/index.html
   - name: SQLServ
     check: "tcp-ping"
     url: azure.blazels.xyz
