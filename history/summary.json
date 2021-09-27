@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/s3.jagoanstorage.com",
     "slug": "storage",
     "status": "up",
-    "uptime": "1.96%",
-    "uptimeDay": "1.96%",
-    "uptimeWeek": "1.96%",
-    "uptimeMonth": "1.96%",
-    "uptimeYear": "1.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2106,
     "timeDay": 2106,
     "timeWeek": 2106,
     "timeMonth": 2106,
     "timeYear": 2106,
-    "dailyMinutesDown": {
-      "2021-09-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SQLServ",
