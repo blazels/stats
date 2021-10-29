@@ -62,7 +62,7 @@
     "url": "https://s3.jagoanstorage.com/download/index.html",
     "icon": "https://favicons.githubusercontent.com/s3.jagoanstorage.com",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "99.85%",
