@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 678,
-    "timeDay": 620,
-    "timeWeek": 562,
-    "timeMonth": 672,
-    "timeYear": 678,
+    "time": 675,
+    "timeDay": 528,
+    "timeWeek": 571,
+    "timeMonth": 653,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2021-10-09": 54
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
-    "time": 555,
-    "timeDay": 496,
-    "timeWeek": 457,
-    "timeMonth": 536,
-    "timeYear": 555,
+    "time": 553,
+    "timeDay": 476,
+    "timeWeek": 469,
+    "timeMonth": 521,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2021-10-09": 53
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 253,
-    "timeWeek": 288,
-    "timeMonth": 327,
-    "timeYear": 353,
+    "time": 351,
+    "timeDay": 279,
+    "timeWeek": 289,
+    "timeMonth": 315,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/s3.jagoanstorage.com",
     "slug": "storage",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1873,
-    "timeDay": 4550,
-    "timeWeek": 2348,
-    "timeMonth": 1819,
-    "timeYear": 1873,
+    "uptime": "99.92%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
+    "time": 1860,
+    "timeDay": 4688,
+    "timeWeek": 2401,
+    "timeMonth": 1788,
+    "timeYear": 1860,
     "dailyMinutesDown": {
-      "2021-10-29": 44
+      "2021-10-29": 37
     }
   },
   {
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 186,
-    "timeWeek": 190,
-    "timeMonth": 205,
+    "timeDay": 184,
+    "timeWeek": 186,
+    "timeMonth": 202,
     "timeYear": 209,
     "dailyMinutesDown": {}
   },
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 174,
+    "time": 206,
+    "timeDay": 184,
     "timeWeek": 184,
-    "timeMonth": 201,
-    "timeYear": 207,
+    "timeMonth": 198,
+    "timeYear": 206,
     "dailyMinutesDown": {}
   }
 ]
