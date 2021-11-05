@@ -1,7 +1,7 @@
 url: https://s3.jagoanstorage.com/download/index.html
-status: up
-code: 200
-responseTime: 1317
-lastUpdated: 2021-11-04T23:06:15.861Z
+status: down
+code: 502
+responseTime: 14848
+lastUpdated: 2021-11-05T06:51:20.791Z
 startTime: Mon Sep 27 2021 10:21:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
