@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2022-08-04": 1039,
+      "2022-08-04": 1063,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2022-08-04": 1039,
+      "2022-08-04": 1063,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
@@ -463,10 +463,10 @@
     "url": "https://s3.jagoanstorage.com/download/index.html",
     "icon": "https://favicons.githubusercontent.com/s3.jagoanstorage.com",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.87%",
     "time": 2135,
@@ -475,7 +475,7 @@
     "timeMonth": 1391,
     "timeYear": 2135,
     "dailyMinutesDown": {
-      "2022-08-04": 21,
+      "2022-08-04": 24,
       "2022-08-01": 18,
       "2022-04-10": 22,
       "2022-04-09": 39,
@@ -531,7 +531,7 @@
     "timeMonth": 0,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2022-08-04": 1039,
+      "2022-08-04": 1063,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
@@ -629,7 +629,7 @@
     "timeMonth": 0,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2022-08-04": 1039,
+      "2022-08-04": 1063,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
