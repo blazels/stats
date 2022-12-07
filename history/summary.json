@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2022-12-07": 1354,
+      "2022-12-07": 1362,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
@@ -317,7 +317,7 @@
     "timeMonth": 0,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2022-12-07": 1354,
+      "2022-12-07": 1362,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-12-07": 1354,
+      "2022-12-07": 1362,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
@@ -699,9 +699,9 @@
     "url": "https://s3.jagoanstorage.com/download/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/s3.jagoanstorage.com.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "81.85%",
+    "uptimeDay": "81.84%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.17%",
@@ -767,7 +767,7 @@
     "timeMonth": 0,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2022-12-07": 1354,
+      "2022-12-07": 1362,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
@@ -990,7 +990,7 @@
     "timeMonth": 0,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2022-12-07": 1354,
+      "2022-12-07": 1362,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
