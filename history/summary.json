@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blazels.xyz.ico",
     "slug": "blaze-ls",
     "status": "down",
-    "uptime": "23.49%",
+    "uptime": "23.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-07-20": 63,
+      "2023-07-21": 63,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -341,8 +342,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   },
   {
@@ -351,7 +351,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn-user.blazels.xyz.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "23.72%",
+    "uptime": "23.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -362,7 +362,8 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-07-20": 63,
+      "2023-07-21": 63,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -686,8 +687,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   },
   {
@@ -696,18 +696,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn-up.blazels.xyz.ico",
     "slug": "patch",
     "status": "down",
-    "uptime": "56.00%",
+    "uptime": "55.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.44%",
-    "time": 344,
+    "uptimeYear": "20.17%",
+    "time": 345,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-07-20": 63,
+      "2023-07-21": 63,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -1008,18 +1009,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.jagoanstorage.com.ico",
     "slug": "storage",
     "status": "down",
-    "uptime": "65.49%",
+    "uptime": "65.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.49%",
-    "time": 2758,
+    "uptimeYear": "38.22%",
+    "time": 2763,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3467,
+    "timeYear": 3474,
     "dailyMinutesDown": {
-      "2023-07-20": 63,
+      "2023-07-21": 63,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -1266,7 +1268,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sql-serv",
     "status": "down",
-    "uptime": "35.23%",
+    "uptime": "35.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1277,7 +1279,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-20": 63,
+      "2023-07-21": 63,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -1640,8 +1643,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   },
   {
@@ -1650,7 +1652,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gamesvr",
     "status": "down",
-    "uptime": "35.23%",
+    "uptime": "35.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1661,7 +1663,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-20": 63,
+      "2023-07-21": 63,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -2024,8 +2027,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   }
 ]
